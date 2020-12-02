@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola estoy en la rama main editando este texto
+=======
+estoy en la rama v0.2
+>>>>>>> v0.2
