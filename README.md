@@ -1,12 +1,12 @@
 COMANDOS UTILIZADOS
 
-git config --global user.name "EduardoCabria"
-git config --global user.email "eduardocabriafuente@gmail.com"
-git clone git"github.com:EduardoCabria/master.git
-cd master
-git add .
-git status
-git commit -m "primer commit"
+git config --global user.name "EduardoCabria"  
+git config --global user.email "eduardocabriafuente@gmail.com"  
+git clone git"github.com:EduardoCabria/master.git  
+cd master  
+git add .  
+git status  
+git commit -m "primer commit"  
 
 
 
