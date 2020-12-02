@@ -14,10 +14,12 @@ git commit -m "primer commit"
 
 | NOMBRE |  GITHUB |
 |----------------|:---------------------------------:|
-| Eduardo Cabria |  https://github.com/EduardoCabria |
-|     Josele     |    https://github.com/jibanez76   | 
-|     Gaizka     |     https://github.com/gmayoz     |
-|      Fede      |   https://github.com/fedllanes    | 
+| Yilin Zhang |  https://github.com/yilinzhang1996 |
+|     Jose Francisco Ibañez     |    https://github.com/jibanez76   | 
+|     Gaizka Mayoz    |     https://github.com/gmayoz     |
+|      Fede Llanes      |   https://github.com/fedllanes    | 
+|    Julieta Bertorello  |  https://github.com/jubertorello  |
+|    Isabel Rojas  |  https://github.com/isa-cd  |
 |     Marcus     |  https://github.com/marcussimple  |
 |     Harold     |    https://github.com/harold91    |
 |    TonyRob     |   https://github.com/tonyrob26    |
