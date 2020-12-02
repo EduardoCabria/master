@@ -13,6 +13,11 @@ git commit -m "primer commit"
 ### **Compañeros de clase:**   
 
 | NOMBRE |  GITHUB |
-|----------|:-------------:|
-| col 2 is |    centered   | 
-| col 3 is | right-aligned |   
+|----------------|:---------------------------------:|
+| Eduardo Cabria |  https://github.com/EduardoCabria |
+|     Josele     |    https://github.com/jibanez76   | 
+|     Gaizka     |     https://github.com/gmayoz     |
+|      Fede      |   https://github.com/fedllanes    | 
+|     Marcus     |  https://github.com/marcussimple  |
+|     Harold     |    https://github.com/harold91    |
+|    TonyRob     |   https://github.com/tonyrob26    |
