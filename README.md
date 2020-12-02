@@ -22,4 +22,8 @@ git commit -m "primer commit"
 |    Isabel Rojas  |  https://github.com/isa-cd  |
 |     Marcus     |  https://github.com/marcussimple  |
 |     Harold     |    https://github.com/harold91    |
-|    TonyRob     |   https://github.com/tonyrob26    |
+|    Antonio     |   https://github.com/tonyrob26    |
+|    Hilda   |  https://github.com/hibohorquez  |
+|    Sergio Serrano  |  https://github.com/Serraser1998  |
+|    Jorge Duque  |  https://github.com/jorgeduque97  |
+|    Jordan Cortes  |  https://github.com/jordancortesm  |
